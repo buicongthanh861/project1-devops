@@ -62,7 +62,7 @@
       <hr>
 
       <label for="mobile"><b>Enter Mobile</b></label>
-      <h1>Cong Thanh Dep Trai 19102004<h1/>
+      <h1>Cong Thanh Dep Trai<h1/>
       <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
 
       <label for="email"><b>Enter Email</b></label>
