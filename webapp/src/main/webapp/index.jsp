@@ -61,7 +61,7 @@
       <p>Please fill in this form to create an account.</p>
       <hr>
 
-      <label for="mobile"><b>Ban Vui Long Dang nhap</b></label>
+      <label for="mobile"><b>Ban Vui Long Dang nhap day du!!</b></label>
       <h1>Cong Thanh Dep Trai<h1/>
       <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
 
