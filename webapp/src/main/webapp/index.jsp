@@ -62,7 +62,7 @@
       <hr>
 
       <label for="mobile"><b>Ban Vui Long Dang nhap day du!!</b></label>
-      <h1>-----------------------<h1/>
+      <h1>6666-----------------------6666<h1/>
       <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
 
       <label for="email"><b>Enter Email</b></label>
