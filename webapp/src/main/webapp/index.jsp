@@ -65,10 +65,10 @@
       <h1>6666-----------------------6666<h1/>
       <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
 
-      <label for="email"><b>Enter Email</b></label>
+      <label for="email"><b>Enter full Email</b></label>
       <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
-      <label for="psw"><b>Password</b></label>
+      <label for="psw"><b>Password full</b></label>
       <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
 
       <label for="psw-repeat"><b>Repeat Password</b></label>
