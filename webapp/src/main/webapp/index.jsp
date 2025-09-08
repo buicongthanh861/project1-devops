@@ -57,7 +57,7 @@
 
   <form action="#">
     <div class="container">
-      <h2>Register</h2>
+      <h2>Register for devops register</h2>
       <p>Please fill in this form to create an account.</p>
       <hr>
 
