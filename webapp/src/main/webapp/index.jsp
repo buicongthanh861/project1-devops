@@ -58,7 +58,7 @@
   <form action="#">
     <div class="container">
       <h2>Register for devops register</h2>
-      <p>Please fill in this form to create an account.</p>
+      <p> create an account.</p>
       <hr>
 
       <label for="mobile"><b>Ban Vui Long Dang nhap day du!!</b></label>
