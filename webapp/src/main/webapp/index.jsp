@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Registration Form</title>
+  <title>Form Dang Nhap 666</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -58,7 +58,7 @@
   <form action="#">
     <div class="container">
       <h2>Register for devops register</h2>
-      <p>Please fill in this form to create an account.</p>
+      <p> create an account.</p>
       <hr>
 
       <label for="mobile"><b>Ban Vui Long Dang nhap day du!!</b></label>
