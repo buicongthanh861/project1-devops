@@ -62,7 +62,7 @@
       <hr>
 
       <label for="mobile"><b>Ban Vui Long Dang nhap day du!!</b></label>
-      <h1>6666-----------------------777<h1/>
+      <h1>-----------------------<h1/>
       <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
 
       <label for="email"><b>Enter full Email</b></label>
@@ -85,7 +85,7 @@
     </div>
   </form>
 
-  <h1>Thank you, Happy Learning!thanh dep trai vl123455765465</h1>
+  <h1>Thank you, Happy Learning!thanh dep trai</h1>
 
 </body>
 </html>
